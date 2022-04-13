@@ -1,4 +1,4 @@
-- Hi, I’m Johnathan Poeschel, a 2021 University of Iowa graduate with a Bachelor’s in Computer Science and Engineering.
+- Hi, I’m Johnathan Poeschel, a 2021 University of Iowa graduate with a Bachelor’s degree in Computer Science and Engineering.
 - I’m interested in software engineering, computer security, and engineering electronics.
 
 <!---
